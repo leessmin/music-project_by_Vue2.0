@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2966906",
+      "name": "操作-播放-暂停",
+      "font_class": "caozuo-bofang-zanting",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "22620320",
+      "name": "播放、暂停，开始",
+      "font_class": "bofang",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
